@@ -19,5 +19,8 @@
   "homepage": "https://github.com/linds-fonnes/express-shopping-list#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "supertest": "^6.1.3"
   }
 }
